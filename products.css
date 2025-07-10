@@ -1,0 +1,27 @@
+.breadcrumb-a {
+  color: var(--neutral-600);
+}
+.breadcrumb-b {
+  color: var(--neutral-300);
+}
+
+.menu .active,
+.menu a:hover,
+.breadcrumb-a:hover {
+  color: var(--primary-400);
+}
+.page .btn {
+  padding: 8px 15px;
+  border-radius: 0;
+  font-weight: 400;
+}
+.btn-hover:hover {
+  background-color: var(--neutral-300);
+}
+.page .active {
+  background-color: var(--primary-300);
+  font-weight: 500;
+}
+/* .page button:hover {
+  background-color: var(--neutral-100);
+} */
